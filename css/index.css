@@ -1,0 +1,33 @@
+.img-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 640px;
+    width: 550;
+}
+
+
+  body{
+    background: rgb(34,193,195);
+    background: linear-gradient(45deg, #fad7a1 0%, #e96d71 100%); 
+    padding: 50px;
+  }
+
+
+  .button1 {
+    button{
+        padding: 10px 10px;
+        background-color: #68ebb9;
+        color: rgb(0, 0, 0);
+        border-radius: 5px;
+        cursor: pointer;
+        border: #0d1310;
+        border:  2px solid #0f0a0a;
+        margin-left: 10px;
+        position: relative;
+        top: -150px;
+    }
+
+}
+  
+
